@@ -78,7 +78,7 @@ namespace Ow.Game.Objects
         }
 
 		/*
-JAVITOTT LÁDÁK!
+JAVITOTT
 */
         public void CancelCollection()
         {
