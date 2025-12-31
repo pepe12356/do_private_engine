@@ -78,7 +78,7 @@ namespace Ow.Game.Objects
         }
 
 		/*
-JAVITOTT
+JAVI
 */
         public void CancelCollection()
         {
