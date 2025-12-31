@@ -77,6 +77,9 @@ namespace Ow.Game.Objects
                 */
         }
 
+		/*
+JAVITOTT LÁDÁK!
+*/
         public void CancelCollection()
         {
             Character.Collecting = false;
